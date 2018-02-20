@@ -7,7 +7,7 @@ title: "Basic Usage"
 Basic Usage
 =============
 
-> Note: In most cases, you'll be much better served by using a specific [official](/providers/league) or [third-party](/providers/thirdparty)
+> Note: In most cases, you'll be much better served by using a specific [official](/providers/league.md) or [third-party](/providers/thirdparty.md)
 provider client library rather than this base library alone.
 
 Authorization Code Flow
